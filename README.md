@@ -35,8 +35,11 @@ Usage
     View Recipe Details: Tap on any dessert to navigate to the detail view, which shows the recipe instructions and ingredients.
 
 Screenshots
-Screenshot1(A list of dessert recipes are displayed): ![DessertRecipeAppScreenshot1](https://github.com/rajkumarmaddoju11/DessertRecipesiOS/assets/171982770/b59adb37-9421-4770-b37d-6c641258fd89)
-Screenshot2(Shows Recipe Details): ![DessertRecipeAppScreenshot2](https://github.com/rajkumarmaddoju11/DessertRecipesiOS/assets/171982770/8d9278a0-c681-49ac-8527-936e96ae9bd8)
+Screenshot1(A list of dessert recipes are displayed): 
+![DessertRecipeAppScreenshot1](https://github.com/rajkumarmaddoju11/DessertRecipesiOS/assets/171982770/b59adb37-9421-4770-b37d-6c641258fd89)
+
+Screenshot2(Shows Recipe Details): 
+![DessertRecipeAppScreenshot2](https://github.com/rajkumarmaddoju11/DessertRecipesiOS/assets/171982770/8d9278a0-c681-49ac-8527-936e96ae9bd8)
 
 
 
