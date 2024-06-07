@@ -1,6 +1,8 @@
 DessertRecipesiOSApp📱🍰
 
 DessertRecipes is an iOS application developed using SwiftUI and Combine, modern frameworks in the iOS ecosystem. This app fetches data from the MealDB API, displaying a list of dessert recipes, and showing detailed information about each recipe.
+
+
 Features
 
     Fetch Dessert Recipes: Retrieves a list of dessert recipes from the MealDB API.
